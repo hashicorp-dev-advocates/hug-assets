@@ -1,0 +1,1 @@
+# HUG assets
